@@ -3,7 +3,7 @@ SQL and Tableau project analyzing customer churn patterns to identify key driver
 
 ## Executive Summary
 
-This project explores customer churn within a telecommunications company using SQL for data exploration and Tableau for dashboard visualization.
+This project analyzes customer churn within a telecommunications company using SQL for data exploration and Tableau for dashboard visualization.
 
 The analysis focuses on identifying key churn patterns across internet service types, contract types and monthly charge segments to uncover potential drivers of customer attrition and support customer retention strategies.
 
@@ -11,7 +11,7 @@ The analysis focuses on identifying key churn patterns across internet service t
 
 Telecommunication companies commonly monitor customer churn to better understand customer retention and identify customer segments with higher attrition.
 
-Understanding where churn occurs will enable businesses to prioritize further investigation and develop more targeted retention strategies.
+Understanding where churn occurs can help businesses to prioritize further investigation and develop more targeted retention strategies.
 
 ## Objectives
 
@@ -76,11 +76,11 @@ To interpret the result better, the distribution of internet service types withi
 
 **Insight:**
 Customers paying between RM60-RM79 and RM80-RM99 showed the highest churn rates.
-Furthe exploration showed that these pricing buckets were predominantly composed of Fiber Optic customers, suggesting that elevated churn may be associated with the concentration of Fiber Optic subscriptions within these price ranges rather than the monthly charges alone.
+Further exploration showed that these pricing buckets were predominantly composed of Fiber Optic customers, suggesting that elevated churn may be associated with the concentration of Fiber Optic subscriptions within these price ranges rather than the monthly charges alone.
 
 ## Key Insights
 
-Some of key findings from the analysis include:
+Some of the key findings from the analysis include:
 * Approximately one in four customers churned.
 * Fiber Optic customers experienced substantially higher churn rate compared to DSL customers.
 * Month-to-month contract type was associated with the highest churn rates among Fiber Optic customers.
@@ -96,7 +96,7 @@ The Tableau dashboard summarizes the key findings from the analysis, providing a
 ## Business Recommendations
 
 * Investigate customer satisfaction among Fiber Optic users to better understand drivers of churn.
-* Encourage Month-to-month customers to transition to longer term contracts through retention campaigns or promotional.
+* Encourage Month-to-month customers to transition to longer term contracts through retention campaigns or promotional offers.
 * Review both pricing and service offerings for customers within the RM60-RM99 monthly charge segment.
 * Monitor churn trends across high-risk customer groups  to support proactive retention initiatives.
 
@@ -110,7 +110,7 @@ The Tableau dashboard summarizes the key findings from the analysis, providing a
 
 ## Key Takeaways
 
-Throught this project, I strengthened my ability to:
+Through this project, I strengthened my ability to:
 
 * Explore business questions using SQL
 * Perform customer segmentation through SQL queries
