@@ -8,6 +8,7 @@ SQL and Tableau project analyzing customer churn patterns to identify key driver
 ## Objectives
 
 ## Dataset
+Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data 
 
 ## Tools and Technologies
 
